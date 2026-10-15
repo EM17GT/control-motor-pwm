@@ -1,0 +1,3 @@
+/home/karen/Documents/Libreria/build/CMakeFiles/ControlMotor.dir
+/home/karen/Documents/Libreria/build/CMakeFiles/edit_cache.dir
+/home/karen/Documents/Libreria/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/ControlMotor.dir/link.d CMakeFiles/ControlMotor.dir/main.c.o CMakeFiles/ControlMotor.dir/conf.c.o -o ControlMotor  -llgpio
